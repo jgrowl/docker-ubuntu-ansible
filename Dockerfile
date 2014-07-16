@@ -1,6 +1,6 @@
 # Dockerfile for ansible (http://www.ansible.com)
 # v0.1.1
-FROM phusion/baseimage
+FROM phusion/baseimage:0.9.11
 MAINTAINER Jonathan Rowlands <jonrowlands83@gmail.com>
 
 # Install deps
